@@ -7,7 +7,12 @@ This repository contain the **Bitespeed Backend Task Identity Reconciliation**
 - For the simplicity purpose *sqlite* database have used with is the default for django.
 
 
-## RESUME : [Harjinder_Singh__Resume](https://drive.google.com/file/d/1g3_yBQDdc7AwR2qbq34BR1hLCflRMxTK/view)
+## RESUME : 
+**File** : [Harjinder_Singh__Resume.pdf](/resume/Harjinder_Singh__Resume.pdf)
+
+**Online Link** : [Resume Link](https://drive.google.com/file/d/1g3_yBQDdc7AwR2qbq34BR1hLCflRMxTK/view)
+
+
 
 ## Default Setup
 I have added a default database entries that can help. Below is the default data that you will find in sqlite table.
